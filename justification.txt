@@ -1,0 +1,3 @@
+Justification for python : I feel more comfortable programming in python than other programming languages 
+Shortest path : prim's and kruskal's will find the minimum spanning tree for the given graph 
+cost : both prim's and kruskal's both have the same time complexity and yeild the same result
